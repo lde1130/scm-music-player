@@ -1,0 +1,33 @@
+/**SKIN FEITA POR ENCASULADA, NÃO USE COMO BASE, NÃO PEGUE DETALHES E NÃO OUSE PLAGIAR, OBRIGADA!**/
+
+#player,#player a{ color:#b7b7b7; }
+#player{ background:url( ); background-position:bottom; background-color: #ffffff; }
+#player .mainImage{ background:url(http://static.tumblr.com/qmfr3ui/NKfn0sw0r/pestrela2.png); }
+
+#player #baseLeft{ width:93px; }
+#player #baseRight{ width:145px;}
+#player .button{ width:26px; }
+#player #play{ background:url(http://static.tumblr.com/qmfr3ui/Y41n0sw19/ppestrela2.png); }
+#player #play,#player #pause{ left:26px; }
+#player #previous{ left:0px; }
+#player #next{ left:52px; }
+#player #title{ left:90px; }
+#player #tooltip{ right:196px; }
+#player #timer{ right:120px; }
+#player #list{ right:0px; }
+
+#player #seeker{ right:320px; }
+#player #seekerBase{ border-color:#ffffff }
+#player #seekerBuffered{ background-color:#ffffff; }
+#player #seekerSliderBase{ background-color:#e8e8e8; }
+
+#player #volume{ width:65px; right:39px; }
+#player #volumeSlider{ width:8px; background:url(http://static.tumblr.com/qmfr3ui/syJn0sw1z/vestrela2.png); }
+
+#playlist,#playlist .module,#playlist h3{ border-color:#ffffff; }
+#playlist .module{ color:#d5d5d5; background-color:#ffffff; }
+#playlist h3{ background:url(http://static.tumblr.com/qmfr3ui/oaxn0sw2l/bestrela2.png); color:#ffffff; background-color:#ffffff; }
+
+#playlist .even{background-color:#ffffff; }
+#playlist .odd{ background-color:#ffffff; }
+#playlist .focus{ background-color:#ffffff; color:#b7b7b7;}
